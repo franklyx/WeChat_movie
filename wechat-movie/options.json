@@ -1,0 +1,7 @@
+{
+  "port": 3000,
+  "appID": "**",//填写自己的appID
+  "appSecret": "*",//填写自己的appSecret
+  "baseUrl": "http://wechat.t.imooc.io/nodeport",
+  "token": "*"//填写自己的appSecret
+}
